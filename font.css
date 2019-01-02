@@ -1,0 +1,9 @@
+@font-face {
+font-family: "amitabold";
+src: url('font/amita/amita-bold.ttf') format('truetype');
+}
+
+@font-face {
+font-family: "amitaregular";
+src: url('font/amita/amita-regular.ttf') format('truetype');
+}
